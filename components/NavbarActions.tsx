@@ -34,7 +34,7 @@ const NavbarActions: FC<NavbarActionsProps> = ({ user }) => {
 
   useEffect(() => {
     setUser(user);
-  }, [user]);
+  }, [setUser, user]);
 
   const router = useRouter();
   const cart = useCart();
