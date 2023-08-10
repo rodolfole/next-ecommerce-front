@@ -1,10 +1,6 @@
 # E-Commerce
 
-<div align="center">
-
 ### <img src="https://raw.githubusercontent.com/rodolfole/next-ecommerce-front/main/app/favicon.ico" height="30px"/> [Demo](https://next-ecommerce-front-swart.vercel.app)
-
-</div>
 
 ## Cloning the repository
 
