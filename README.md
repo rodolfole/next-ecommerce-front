@@ -1,6 +1,6 @@
 # E-Commerce
 
-<img src="https://res.cloudinary.com/dtqijixar/image/upload/v1691710618/Previews/Preview_Ecommerce_yf3itb.jpg" height="300px"/>
+<img src="https://res.cloudinary.com/dtqijixar/image/upload/v1691712385/Previews/Preview_Ecommerce_2_zitmdi.jpg" height="300px"/>
 
 ### [Demo](https://next-ecommerce-front-swart.vercel.app)
 
